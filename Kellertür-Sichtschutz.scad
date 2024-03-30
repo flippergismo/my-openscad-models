@@ -13,7 +13,7 @@ radius_2 = 50;
 bucht_links_radius = radius_1;
 bucht_links_hoehe = 110;
 
-lasche_ueberhang = 50;
+lasche_ueberhang = 35;
 lasche_breite = 75.5;
 lasche_bohrung_radius = 5;
 
