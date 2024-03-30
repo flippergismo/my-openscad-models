@@ -12,16 +12,9 @@ radius_2 = 50;
 
 bucht_links_radius = radius_1;
 bucht_links_hoehe = 110;
-bucht_oben_einschnitttiefe = 170;
-bucht_oben_1_radius = radius_1;
-bucht_oben_1_bei = 270;
-bucht_oben_2_radius = radius_2;
-bucht_oben_2_bei = 435;
-bucht_oben_3_radius = radius_2;
-bucht_oben_3_bei = 560;
 
 lasche_ueberhang = 50;
-lasche_breite = 75;
+lasche_breite = 75.5;
 lasche_bohrung_radius = 5;
 
 module trapezoid(startz, lange_seite, kurze_seite, hoehe, tiefe){
